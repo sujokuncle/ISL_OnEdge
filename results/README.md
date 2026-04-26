@@ -1,0 +1,13 @@
+## 📊 Results
+
+### 🔹 Accuracy Report
+Shows per-class accuracy along with confidence distribution across all 26 ISL alphabets.
+
+![Accuracy Report](results/accuracy_report.png)
+
+---
+
+### 🔹 Confusion Matrix
+Visualizes misclassifications between similar gestures (e.g., H, N, M), helping identify model weaknesses.
+
+![Confusion Matrix](results/confusion_matrix.png)
