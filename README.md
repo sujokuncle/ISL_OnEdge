@@ -323,7 +323,7 @@ python app.py
 
 | Name | Role |
 |---|---|
-| [Your Name] | System design, feature engineering, training, Pi deployment |
+| Sujal | System design, feature engineering, training, Pi deployment |
 
 ---
 
